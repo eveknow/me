@@ -7,7 +7,9 @@
 ## Domain
 
 * Architecture Design: Micro-service.
-* Technology Stack: ApiGateway Kong, RabbitMq, Redis, SpringBoot, Angular.
+* Technology Stack: ApiGateway Kong, RabbitMQ, Redis, Mysql, ELK.
+* FE: Angular.
+* BE: SpringBoot, Nestjs, FastAPI, Echo (labstack).
 * Freelancer: App, Website for small, medium company.
 * Sample Desgin:
 
