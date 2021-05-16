@@ -26,6 +26,7 @@
 3. Management, Admin Dashboard.
 4. Log, Metric for Microservice.
 5. Notification Gateway: Slack, Telegram, Email, SMS.
-6. Build CI/CD process
-7. More and moreover.
+6. Integrate Oauth2.
+7. Build CI/CD process
+8. More and moreover.
 
