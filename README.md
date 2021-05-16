@@ -20,3 +20,12 @@
 ![alt text](https://github.com/eveknow/me/blob/main/SampleDesign.png?raw=true)
 
 
+## Project (TeamSize: 3-4 persons)
+
+1. Check health service (Heart beat and polling info)
+2. Scheduler and worker design (Backup jobs or Caculate Bandwidth jobs)
+3. Management, Admin Dashboard.
+4. Log, Metric for Microservice.
+5. Notification Gateway: Slack, Telegram, Email, SMS.
+6. Build CI/CD process
+
