@@ -1,4 +1,4 @@
-# Me Thanhtk
+# Thanhtk
 
 ## Lead Software Engineer
  * Contact: +84 938.914.942
