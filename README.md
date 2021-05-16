@@ -1,6 +1,9 @@
 # Me Thanhtk
 
 ## Lead Software Engineer
+ * Contact: +84 938.914.942
+ * Skype: eveknow
+ * Telegram: using the above phone number
 
 
 
